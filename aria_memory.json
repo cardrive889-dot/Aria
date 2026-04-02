@@ -1,0 +1,12 @@
+[
+  {
+    "time": "2026-04-02T10:41:29.101382",
+    "role": "user",
+    "content": "What is the color of sky?"
+  },
+  {
+    "time": "2026-04-02T10:42:40.646509",
+    "role": "aria",
+    "content": "The color of the sky can vary depending on the time of day, atmospheric conditions, and other factors. However, at sunrise and sunset, the sky often turns pink, orange, and purple due to a phenomenon called scattering. This is because the light has to travel through more of the Earth's atmosphere to reach our eyes, which scatters the shorter, blue wavelengths of light more than the longer, red wavelengths.\n\nAt these times, the sky can appear hues of crimson, salmon, or even shades of grayish-pink. As the sun rises higher in the sky, it begins to produce a brilliant white light, known as solar radiance, which illuminates the atmosphere and gives it a bluish tint.\n\nIn the morning, after sunrise, the sky often appears blue due to the scattering of sunlight by the atmosphere. The color can range from pale blue to deep cerulean, depending on the intensity of the sun's radiation.\n\nAs we approach noon, when the sun is at its highest point in the sky, the light it emits has a more direct path through the atmosphere and tends to produce a yellowish or golden hue, known as Rayleigh scattering. This is why many objects appear yellow or orange during this time.\n\nIn the late afternoon, after sunset, the sky can take on hues of pink, purple, or even shades of orange due to the same scattering process. However, these colors are often more muted and less vibrant than those seen during sunrise and noon."
+  }
+]
